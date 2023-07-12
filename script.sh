@@ -1,1 +1,1 @@
-curl --head https://www.baeldungtest.com
+c url --head https://www.baeldungtest.com
