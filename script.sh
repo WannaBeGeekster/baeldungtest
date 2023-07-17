@@ -1,1 +1,1 @@
-c url --head https://www.baeldungtest.com
+c url --head -xx https://www.baeldungtest.com
